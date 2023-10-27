@@ -1,2 +1,3 @@
-# AmazonBestsellers
-Analyze Amazon Best Seller Data
+# Amazon Bestsellers
+Analyze Amazon Best Seller Data 
+Utilizing data provided by kaggle
