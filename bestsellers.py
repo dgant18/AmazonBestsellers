@@ -23,6 +23,7 @@ X = bestsellers_data[book_features]
 
 #test
 print(X.describe())
+print(y.describe())
 
 #price modeling based on rating and reviews
 price_model = DecisionTreeRegressor(random_state=1)
